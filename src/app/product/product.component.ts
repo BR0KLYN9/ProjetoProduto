@@ -26,3 +26,4 @@ export class ProductComponent {
     this.products.push(this.productFormGroup.value);
   }
 }
+//"batatinhafrita"
